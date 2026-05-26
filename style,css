@@ -2,7 +2,7 @@
 
 :root {
   --cor-de-fundo: #cc1f70;
-  --rosa claro: #f7b6e9;
+  --rosaclaro: #f7b6e9;
   --branco: #c50f7f;
   --botao-ativo: #ff5dff;
   --botao-inativo: rgba(58, 55, 94, 0.5);
